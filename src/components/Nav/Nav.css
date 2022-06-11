@@ -1,0 +1,28 @@
+.nav__text {
+    color: white;
+    padding: 8px;
+}
+
+.nav__black {
+    background-color: #111;
+}
+
+.nav__text:hover {
+    cursor: pointer;
+    color: rgb(168, 166, 166);
+    transition: all 0.2s;
+}
+
+.nav__search:hover {
+    cursor: pointer;
+}
+
+.nav__bell:hover {
+    cursor: pointer;
+    color: rgb(168, 166, 166);
+    transition: all 0.2s;
+}
+
+.nav__avatar:hover {
+    cursor: pointer;
+}
